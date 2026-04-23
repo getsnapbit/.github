@@ -2,7 +2,7 @@
   <img src="https://snapbit.ai/assets/img/logo.svg" alt="Snapbit logo - AI microlearning platform" width="170" />
   <br><br>
 
-  ###Learn in minutes. Personalized for you.###
+  ### Learn in minutes. Personalized for you.
   <p>
     AI-powered microlearning platform for personalized podcast-style audio lessons.
     Turn any topic, notes, summary, or photo into a short lesson you can listen to anywhere.
