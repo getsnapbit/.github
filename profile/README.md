@@ -1,79 +1,116 @@
 <div align="center">
+  <img src="https://snapbit.ai/assets/img/logo.svg" alt="Snapbit logo - AI microlearning platform" width="140" />
 
-<img src="https://snapbit.ai/assets/img/logo.svg" alt="Snapbit Logo" width="150" />
+  <h1>Snapbit</h1>
+  <p><strong>Learn in minutes. Personalized for you.</strong></p>
+  <p>
+    AI-powered microlearning platform for personalized podcast-style audio lessons.
+    Turn any topic, notes, summary, or photo into a short lesson you can listen to anywhere.
+  </p>
 
-# Snapbit - Learn in minutes. Personalized for you.
-
-**AI-powered microlearning · Podcast-style audio lessons · Personalized by you**
-
-[![Website](https://img.shields.io/badge/snapbit.ai-Visit%20Site-black?style=for-the-badge&logo=safari&logoColor=white)](https://snapbit.ai)
-[![Instagram](https://img.shields.io/badge/@getsnapbit-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/getsnapbit)
-[![TikTok](https://img.shields.io/badge/@getsnapbit-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@getsnapbit)
-[![Status](https://img.shields.io/badge/Status-Launching%20Soon-6C63FF?style=for-the-badge)](#)
-
+  <p>
+    <a href="https://snapbit.ai">
+      <img alt="Visit Snapbit website" src="https://img.shields.io/badge/Website-snapbit.ai-black?style=for-the-badge&logo=safari&logoColor=white">
+    </a>
+    <a href="https://instagram.com/getsnapbit">
+      <img alt="Follow Snapbit on Instagram" src="https://img.shields.io/badge/Instagram-@getsnapbit-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://tiktok.com/@getsnapbit">
+      <img alt="Follow Snapbit on TikTok" src="https://img.shields.io/badge/TikTok-@getsnapbit-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+    </a>
+    <img alt="Status Launching soon" src="https://img.shields.io/badge/Status-Launching%20Soon-6C63FF?style=for-the-badge">
+  </p>
 </div>
 
 ---
 
-## 🎧 What is Snapbit?
+## What is Snapbit?
 
-**Snapbit** is an AI-powered microlearning platform that turns any topic into a personalized, podcast-style audio lesson - ready to listen in minutes.
+**Snapbit** is an AI-powered microlearning platform that turns almost anything into a personalized, podcast-style audio lesson in minutes.
 
-Whether you want to explore a new subject, build a practical skill, or go deep on something you're studying, Snapbit adapts to your learning style and delivers structured, high-quality audio content on demand.
+Learn during your commute, coffee break, workout, walk, or while doing everyday tasks. Instead of endless scrolling, Snapbit helps you build real knowledge in short, structured sessions designed for retention.
 
-> *Stop scrolling. Start learning.*
-
----
-
-## ✨ How It Works
-
-1. **Choose a topic** - anything from machine learning to Renaissance art to personal finance
-2. **Pick your format** - Quick (5–9 min), Standard (10–14 min), or Deep (15–20 min)
-3. **Listen** - a dynamic, podcast-style lesson is generated and narrated just for you
-
-Snapbit lessons are structured, coherent, and designed for real comprehension - not just surface-level summaries.
+> Stop scrolling. Start learning.
 
 ---
 
-## 🧠 Lesson Modes
+## Why Snapbit?
 
-| Mode | Best For |
-|------|----------|
-| 🔍 **Explore** | Curious about something new? Get a broad, engaging overview |
-| 💡 **Understand** | Go deeper into concepts and *why* things work |
-| 🛠️ **Skill** | Practical, actionable knowledge you can apply right away |
-| 📚 **Study** | Structured learning for students and exam prep |
-| 🌍 **Language** | Learn languages through immersive audio content |
+Snapbit is built for people who want learning to fit into real life.
 
----
-
-## 🚀 Join the Waitlist
-
-We're launching soon. Be among the first to experience AI microlearning done right.
-
-<div>
-
-**👉 [snapbit.ai](https://snapbit.ai)**
-
-</div>
+- Generate lessons from any topic you want to explore.
+- Turn notes, summaries, or photos into audio lessons.
+- Choose a lesson length that matches your time.
+- Personalize voice, pacing, and language.
+- Listen online or download lessons for offline playback.
+- Get structured content designed for understanding, not just passive consumption.
 
 ---
 
-## 📬 Get in Touch
+## Key Features
 
-Have questions, partnership ideas, or just want to say hi?
+### Personalized audio learning
+Every lesson is generated around your curiosity, goals, and pace.
 
-- 🌐 **Website**: [snapbit.ai](https://snapbit.ai)
-- 📸 **Instagram**: [@getsnapbit](https://instagram.com/getsnapbit)
-- 🎵 **TikTok**: [@getsnapbit](https://tiktok.com/@getsnapbit)
-- 📧 **Email**: hello@snapbit.ai
+### Learn from anything
+Type a topic, paste a summary, upload notes, or share a photo.
+
+### Built for busy days
+Choose the format that fits your schedule:
+- **Quick** — 5 to 9 minutes
+- **Standard** — 10 to 14 minutes
+- **Deep** — 15 to 20 minutes
+
+### Multilingual by design
+Create and listen to lessons in your preferred language.
+
+### Fact-checked content
+Lessons are generated with accuracy in mind, so learning feels reliable as well as fast.
+
+### Offline listening
+Download lessons and keep learning without an internet connection.
+
+---
+
+## How it works
+
+1. Choose what you want to learn.
+2. Add context with a topic, notes, summary, or image.
+3. Pick the lesson length and listening preferences.
+4. Get a personalized audio lesson in minutes.
+5. Listen now or save it for later.
+
+---
+
+## Great for
+
+- Learning something new in a few spare minutes
+- Turning study notes into audio revision
+- Exploring science, history, productivity, finance, art, and technology
+- Learning while commuting, walking, cooking, or training
+- Discovering new topics without committing to long courses or audiobooks
+
+---
+
+## Join the waitlist
+
+Snapbit is launching soon.
+
+Be among the first to try a faster, more personal way to learn:
+👉 **[snapbit.ai](https://snapbit.ai)**
+
+---
+
+## Links
+
+- Website: [snapbit.ai](https://snapbit.ai)
+- Instagram: [@getsnapbit](https://instagram.com/getsnapbit)
+- TikTok: [@getsnapbit](https://tiktok.com/@getsnapbit)
+- Email: [support@snapbit.ai](mailto:support@snapbit.ai)
 
 ---
 
 <div align="center">
-
-*Built with ☕ and a lot of audio segments.*
-
-**© 2026 Snapbit · AI Microlearning Platform**
-
+  Built with ☕ and a lot of audio segments.<br>
+  <strong>© 2026 Snapbit</strong>
 </div>
