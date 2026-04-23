@@ -2,7 +2,7 @@
 
 <img src="https://snapbit.ai/assets/img/logo.svg" alt="Snapbit Logo" width="150" />
 
-# Snapbit — Learn in minutes. Personalized for you.
+# Snapbit - Learn in minutes. Personalized for you.
 
 **AI-powered microlearning · Podcast-style audio lessons · Personalized by you**
 
@@ -17,7 +17,7 @@
 
 ## 🎧 What is Snapbit?
 
-**Snapbit** is an AI-powered microlearning platform that turns any topic into a personalized, podcast-style audio lesson — ready to listen in minutes.
+**Snapbit** is an AI-powered microlearning platform that turns any topic into a personalized, podcast-style audio lesson - ready to listen in minutes.
 
 Whether you want to explore a new subject, build a practical skill, or go deep on something you're studying, Snapbit adapts to your learning style and delivers structured, high-quality audio content on demand.
 
@@ -27,11 +27,11 @@ Whether you want to explore a new subject, build a practical skill, or go deep o
 
 ## ✨ How It Works
 
-1. **Choose a topic** — anything from machine learning to Renaissance art to personal finance
-2. **Pick your format** — Quick (5–9 min), Standard (10–14 min), or Deep (15–20 min)
-3. **Listen** — a dynamic, podcast-style lesson is generated and narrated just for you
+1. **Choose a topic** - anything from machine learning to Renaissance art to personal finance
+2. **Pick your format** - Quick (5–9 min), Standard (10–14 min), or Deep (15–20 min)
+3. **Listen** - a dynamic, podcast-style lesson is generated and narrated just for you
 
-Snapbit lessons are structured, coherent, and designed for real comprehension — not just surface-level summaries.
+Snapbit lessons are structured, coherent, and designed for real comprehension - not just surface-level summaries.
 
 ---
 
