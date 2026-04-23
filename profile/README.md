@@ -10,15 +10,15 @@
 
   <p align="center">
     <a href="https://snapbit.ai">
-      <img alt="Snapbit website" src="https://img.shields.io/badge/Website-snapbit.ai-111111?style=flat-square&logo=googlechrome&logoColor=white">
+      <img alt="Visit Snapbit" src="https://img.shields.io/badge/Visit%20Snapbit-snapbit.ai-0F172A?style=flat&logo=safari&logoColor=white">
     </a>
     <a href="https://instagram.com/getsnapbit">
-      <img alt="Snapbit Instagram" src="https://img.shields.io/badge/Instagram-@getsnapbit-2b2b2b?style=flat-square&logo=instagram&logoColor=white">
+      <img alt="Snapbit on Instagram" src="https://img.shields.io/badge/Instagram-@getsnapbit-E4405F?style=flat&logo=instagram&logoColor=white">
     </a>
     <a href="https://tiktok.com/@getsnapbit">
-      <img alt="Snapbit TikTok" src="https://img.shields.io/badge/TikTok-@getsnapbit-2b2b2b?style=flat-square&logo=tiktok&logoColor=white">
+      <img alt="Snapbit on TikTok" src="https://img.shields.io/badge/TikTok-@getsnapbit-111111?style=flat&logo=tiktok&logoColor=white">
     </a>
-    <img alt="Launching soon" src="https://img.shields.io/badge/Status-Launching%20Soon-6C63FF?style=flat-square">
+    <img alt="Product status" src="https://img.shields.io/badge/Launching-Soon-7C3AED?style=flat">
   </p>
 </div>
 
