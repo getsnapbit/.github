@@ -49,12 +49,12 @@ Snapbit is built for people who want learning to fit into real life.
 
 ## Key Features
 
-- **Personalized audio lessons** — Tailored to your topic, goals, pace, and preferences.
-- **Learn from anything** — Start from a prompt, notes, a summary, or a photo.
-- **Flexible lesson length** — Choose Quick (5–9 min), Standard (10–14 min), or Deep (15–20 min).
-- **Multilingual listening** — Generate lessons in your preferred language.
-- **Fact-checked learning** — Built for fast but trustworthy understanding.
-- **Offline access** — Download lessons and listen anywhere.
+- **Personalized audio lessons** - Tailored to your topic, goals, pace, and preferences.
+- **Learn from anything** - Start from a prompt, notes, a summary, or a photo.
+- **Flexible lesson length** - Choose Quick (5–9 min), Standard (10–14 min), or Deep (15–20 min).
+- **Multilingual listening** - Generate lessons in your preferred language.
+- **Fact-checked learning** - Built for fast but trustworthy understanding.
+- **Offline access** - Download lessons and listen anywhere.
 
 ---
 
