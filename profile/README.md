@@ -51,7 +51,7 @@ Snapbit lessons are structured, coherent, and designed for real comprehension - 
 
 We're launching soon. Be among the first to experience AI microlearning done right.
 
-<div align="center">
+<div>
 
 **👉 [snapbit.ai](https://snapbit.ai)**
 
