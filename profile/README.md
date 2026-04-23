@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://snapbit.ai/assets/img/logo.svg" alt="Snapbit logo - AI microlearning platform" width="170" />
+  <br><br>
 
   <p><strong>Learn in minutes. Personalized for you.</strong></p>
   <p>
