@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://snapbit.ai/assets/logo.png" alt="Snapbit Logo" width="120" />
+<img src="https://snapbit.ai/assets/img/logo.svg" alt="Snapbit Logo" width="150" />
 
-# Snapbit — Learn Anything, Anywhere, in Minutes
+# Snapbit — Learn in minutes. Personalized for you.
 
 **AI-powered microlearning · Podcast-style audio lessons · Personalized by you**
 
