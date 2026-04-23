@@ -10,15 +10,14 @@
 
   <p align="center">
     <a href="https://snapbit.ai">
-      <img alt="Visit Snapbit" src="https://img.shields.io/badge/Visit%20Snapbit-snapbit.ai-0F172A?style=flat&logo=safari&logoColor=white">
+      <img alt="Snapbit website" src="https://img.shields.io/badge/snapbit.ai-Learn%20in%20minutes-111111?style=flat-square&logo=googlechrome&logoColor=white">
     </a>
     <a href="https://instagram.com/getsnapbit">
-      <img alt="Snapbit on Instagram" src="https://img.shields.io/badge/Instagram-@getsnapbit-E4405F?style=flat&logo=instagram&logoColor=white">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-f5f5f5?style=flat-square&logo=instagram&logoColor=E4405F">
     </a>
     <a href="https://tiktok.com/@getsnapbit">
-      <img alt="Snapbit on TikTok" src="https://img.shields.io/badge/TikTok-@getsnapbit-111111?style=flat&logo=tiktok&logoColor=white">
+      <img alt="TikTok" src="https://img.shields.io/badge/TikTok-Follow-f5f5f5?style=flat-square&logo=tiktok&logoColor=111111">
     </a>
-    <img alt="Product status" src="https://img.shields.io/badge/Launching-Soon-7C3AED?style=flat">
   </p>
 </div>
 
