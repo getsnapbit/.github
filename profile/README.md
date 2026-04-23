@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://snapbit.ai/assets/img/logo.svg" alt="Snapbit logo - AI microlearning platform" width="170" />
-  <br><br>
-
+  <br>
+  
   ### Learn in minutes. Personalized for you.
   <p>
     AI-powered microlearning platform for personalized podcast-style audio lessons.
