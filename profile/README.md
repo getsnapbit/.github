@@ -10,14 +10,15 @@
 
   <p align="center">
     <a href="https://snapbit.ai">
-      <img alt="Snapbit website" src="https://img.shields.io/badge/snapbit.ai-Learn%20in%20minutes-111111?style=flat-square&logo=googlechrome&logoColor=white">
+      <img alt="Snapbit website" src="https://img.shields.io/badge/Website-snapbit.ai-111111?style=flat-square&logo=googlechrome&logoColor=white">
     </a>
     <a href="https://instagram.com/getsnapbit">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-f5f5f5?style=flat-square&logo=instagram&logoColor=E4405F">
+      <img alt="Snapbit Instagram" src="https://img.shields.io/badge/Instagram-@getsnapbit-2b2b2b?style=flat-square&logo=instagram&logoColor=white">
     </a>
     <a href="https://tiktok.com/@getsnapbit">
-      <img alt="TikTok" src="https://img.shields.io/badge/TikTok-Follow-f5f5f5?style=flat-square&logo=tiktok&logoColor=111111">
+      <img alt="Snapbit TikTok" src="https://img.shields.io/badge/TikTok-@getsnapbit-2b2b2b?style=flat-square&logo=tiktok&logoColor=white">
     </a>
+    <img alt="Launching soon" src="https://img.shields.io/badge/Status-Launching%20Soon-6C63FF?style=flat-square">
   </p>
 </div>
 
@@ -48,26 +49,12 @@ Snapbit is built for people who want learning to fit into real life.
 
 ## Key Features
 
-### Personalized audio learning
-Every lesson is generated around your curiosity, goals, and pace.
-
-### Learn from anything
-Type a topic, paste a summary, upload notes, or share a photo.
-
-### Built for busy days
-Choose the format that fits your schedule:
-- **Quick** — 5 to 9 minutes
-- **Standard** — 10 to 14 minutes
-- **Deep** — 15 to 20 minutes
-
-### Multilingual by design
-Create and listen to lessons in your preferred language.
-
-### Fact-checked content
-Lessons are generated with accuracy in mind, so learning feels reliable as well as fast.
-
-### Offline listening
-Download lessons and keep learning without an internet connection.
+- **Personalized audio lessons** — Tailored to your topic, goals, pace, and preferences.
+- **Learn from anything** — Start from a prompt, notes, a summary, or a photo.
+- **Flexible lesson length** — Choose Quick (5–9 min), Standard (10–14 min), or Deep (15–20 min).
+- **Multilingual listening** — Generate lessons in your preferred language.
+- **Fact-checked learning** — Built for fast but trustworthy understanding.
+- **Offline access** — Download lessons and listen anywhere.
 
 ---
 
