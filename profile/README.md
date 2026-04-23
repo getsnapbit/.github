@@ -74,6 +74,6 @@ Have questions, partnership ideas, or just want to say hi?
 
 *Built with ☕ and a lot of audio segments.*
 
-**© 2025 Snapbit · AI Microlearning Platform**
+**© 2026 Snapbit · AI Microlearning Platform**
 
 </div>
